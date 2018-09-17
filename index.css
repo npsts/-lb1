@@ -1,0 +1,55 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.task1{
+    color: purple;
+    background-color: lemonchiffon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 23px;
+}
+
+.task2{
+    color: rgb(67, 90, 81);
+    background-color: rgb(184, 168, 23);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+}
+
+.task3{
+    color: plum;
+    background-color: rgb(3, 14, 107);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 29px;
+}
+
+.task4{
+    color: rgb(41, 14, 199);
+    background-color: rgb(170, 145, 121);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+.task5{
+    color: rgb(56, 221, 23);
+    background-color: rgb(74, 58, 77);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.task6{
+    color: rgb(218, 58, 18);
+    background-color: rgb(19, 19, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 38px;
+}
