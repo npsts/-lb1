@@ -33,6 +33,90 @@ p{
     font-size: 29px;
 }
 
+
+
+a.one:link {
+    color: green;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+a.one:visited {
+    color: lime;
+}
+a.one:hover {
+    color: yellow;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+
+a.two:link {
+    color: gold;
+}
+a.two:visited {
+    color: yellow;
+}
+a.two:hover {
+    color: peru;
+    font-size:500%;
+}
+
+
+a.three:link, a.three:visited {
+    color: black;
+    background-color: white;
+    border: 2px solid yellow;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a.three:hover {
+    color: blue;
+    background-color: yellow;
+}
+
+
+
+a.four:link, a.four:visited {
+    color: black;
+    background-color: red;
+    border: 1px double greenyellow;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: ruby-base-container;
+}
+a.four:hover {
+    color: white;
+    background-color: black;
+}
+
+
+
+a.five:link, a.five:visited {
+    color: black;
+    background-color: darkgreen;
+    border: 10px dashed greenyellow;
+    padding: 10px 20px;
+    text-align: right;
+    text-decoration: teal;
+    display: inline-flex;
+}
+a.five:hover {
+    color: white;
+    background-color: violet;
+}
+
+
+
+
+
+
 .task4{
     color: rgb(41, 14, 199);
     background-color: rgb(170, 145, 121);
