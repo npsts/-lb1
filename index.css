@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -124,6 +124,24 @@ a.five:hover {
     background-color: rgb(170, 145, 121);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 32px;
+}
+ul {
+    list-style-type: lower-alpha;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+    color: black;
+    font-size: 30px;
+}
+
+ul li{
+    background-color: palevioletred;
+}
+
+li.a{
+    background-color: pink;
+    margin: 10px;
 }
 
 .task5{
