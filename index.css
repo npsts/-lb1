@@ -94,6 +94,7 @@ a.four:link, a.four:visited {
 a.four:hover {
     color: white;
     background-color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -110,6 +111,7 @@ a.five:link, a.five:visited {
 a.five:hover {
     color: white;
     background-color: violet;
+    text-decoration: overline;
 }
 
 
